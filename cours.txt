@@ -1,0 +1,670 @@
+Les fondamentaux de la gestion de projet
+
+
+
+Dès lors, les méthodes de gestion de projet ne cesseront plus de s’enrichir jusqu’à l’émergence effective d’une codification qui se produira, au milieu du XXe siècle, après plusieurs grandes étapes :
+De 1930 à 1950 : des processus strictement internes
+ 
+
+Une première étape couvre les années 1930 à 1950 avec le développement des grands projets étatiques d’industrialisation tels que les grands projets militaires et aéronautiques ainsi que ceux relatifs aux infrastructures (auto- routes, ponts, barrages…), qui n’ont pas été encore soumis à d’exigeantes contraintes de coûts. Au cours de cette période, les ingénieurs appliqueront des techniques de gestion de projet qui ne sortiront pas du cadre de leurs entreprises et qui ne seront ni diffusées, ni standardisées. Elles resteront des processus internes de savoir-faire des entreprises.
+Les années 1950 : création de l’outil phare de la planification
+
+À partir du milieu des années 1950, en 1954 d’abord, la société Du Pont de Nemours crée la méthode de graphique CPM (Critical Path Method) qui offre une visualisation des liaisons entre les tâches, les coûts et les délais. Plus tard, en 1957, l’US Navy développera, dans le cadre du programme Polaris, le PERT (Program Evaluation Review Technique) qui reste toujours l’un des outils phares de la planification de projet.
+
+ 
+Introduction
+
+
+Les années 1960 : codification et diffusion des méthodes
+
+Dès les années 1960, la gestion de projet se structure avec la création d’as- sociations professionnelles, comme le PMI (Project Management Institute créé aux États-Unis en 1969), qui diffuseront largement des méthodes et des outils. Les États-Unis proposent un modèle universel de management de projet fondé sur une méthodologie rigoureuse, des procédures norma- lisées, des contrôles périodiques, une traçabilité du développement offrant ainsi un langage projet commun à tous les acteurs. On assiste alors à une codification de la gestion de projet et à une large diffusion des méthodes.
+Les années 1980 : l’organisation en équipe projet
+
+
+
+À partir des années 1980, les méthodes de gestion de projet seront géné- ralisées et appliquées à de nombreux secteurs d’activités, dont celui des services, comme une réponse aux exigences relatives à la qualité et aux prix des produits. En effet, ces produits devront être réalisés dans des délais courts et devront intégrer, dans leurs processus de fabrication et de concep- tion, de nombreux fournisseurs, ce qui nécessitera une forte coordination. L’introduction de l’ingénierie concourante (IC) fournit un modèle permettant d’agir sur l’organisation en équipe projet pour développer plus rapidement des projets. On assiste également, à cette même période, au développe- ment de logiciels spécialisés dans les domaines de la planification, de l’or- donnancement, de la gestion de la documentation et de la configuration, du découpage technique et financier des tâches, etc.
+
+Premier clic ! le contexte
+
+« Un projet n’est rien d’autre qu’un rêve avec une échéance. »
+
+Depuis la nuit des temps, l’homme bâtisseur de pyramides, de temples, de cathédrales, d’ouvrages militaires, de châteaux, de palais…a eu la volonté de marquer son passage d’une empreinte individuelle ou collective. Un mot, est porteur d’ambitions et d’utopies. Ce mot, c’est le mot projet qui concep- tualise, à lui seul, l’aventure créative humaine.
+Un premier « clic ! » pour comprendre la problématique de la démarche de projet et ses caractéristiques.
+
+1	Qu’est-ce qu’un projet ?
+⬥ Étymologie du mot « projet »
+Le mot « projet » provient du mot latin projectum de projicere qui signifie
+« jeter en avant ».
+Le mot « projet » se compose :
+	du préfixe « pro » qui correspond en latin à la préposition pro signifiant
+« devant » ;
+	de la racine latine jet qui provient de jactum de jacere qui signifie « jeter ».
+Le mot « projet » recouvre trois sens distincts :
+	une intention de faire : c’est l’« image d’une situation, d’un état que l’on pense atteindre2 » ;
+2	Définition tirée du Petit Robert.
+
+	un travail préparatoire : un avant-projet, des dessins, des esquisses, des ébauches, des épures, ou des schémas ;
+	une réalisation : il devient alors une réalité à venir.
+
+⬥ Définition du mot « projet »
+La norme NF EN ISO 9000 définit le projet comme suit :
+« Processus unique, qui consiste en un ensemble d’activités coordonnées et maîtri- sées comportant des dates de début et de fin, entrepris dans le but d’atteindre un objectif conforme à des exigences spécifiques, incluant des contraintes de délais, de coûts et de ressources3 ».
+Cette définition pose de façon complète la problématique de la gestion de
+projet en citant les termes clés suivants :
+Processus unique : la démarche de projet s’inscrit dans le champ de la création et de l’innovation. On différencie les activités « projet » non récur- rentes des activités « opérations » récurrentes.
+Ensemble d’activités coordonnées et maîtrisées : le projet est carac- térisé par de nombreuses tâches, de natures différentes qui devront être maîtrisées sur toute sa durée (analyse de risques).
+Dates de début et de fin : le projet s’inscrit dans une durée, il a un début
+et une fin.
+Exigences spécifiques : le projet répond à un cahier des charges, une
+spécification de besoins.
+Ressources : le projet mobilise des ressources humaines et matérielles.
+
+2	Les caractéristiques du projet
+Contrairement aux activités industrielles classiques dont les processus et opérations sont :
+	stabilisés ;
+	ritualisés ;
+	répétitifs ;
+	réversibles ;
+	à faibles niveaux d’incertitudes.
+
+3		Source : Froman B., Gourdon C., Dictionnaire de la qualité, AFNOR Éditions, 2003, p. 149.
+ 
+
+
+L’activité « projet », elle, s’inscrit dans un modèle à fortes incertitudes où le produit développé est unique et nécessite des solutions novatrices non récurrentes.
+On peut caractériser l’activité « projet » par :
+	des activités non répétitives ;
+	des décisions irréversibles ;
+	des variables exogènes fortes (économiques, politiques, stratégiques…) ;
+	des équipes mobilisées temporairement en « équipes projet » ;
+	des objectifs qui peuvent évoluer en cours de développement ;
+	une organisation matricielle (axe métier – axe projet) ;
+	une double autorité (client – entreprise) ;
+	une coordination complexe d’acteurs multiples.
+
+
+3	Les différents types de projet
+On différenciera les trois grands types de projets suivants :
+	le projet « ouvrage » ;
+	le projet « produit » ;
+	le projet « organisationnel ».
+
+•	Le projet « ouvrage »
+Le projet dit « ouvrage » ou « projet d’ingénierie » est relatif à un projet unique, non récurrent, qui s’adresse à un client unique. Exemple : les grands ouvrages d’art qui s’inscrivent dans la durée (pont, tunnel, autoroute, biblio- thèque, musée…).
+ 
+•	Le projet « produit »
+
+Le projet dit « produit » est relatif à un projet qui sera, après une phase non récurrente, réalisé en plusieurs exemplaires ou en série. De nature éphé- mère (avions, automobiles, ordinateurs, médicaments, parfums…), ce type de projet s’adresse à plusieurs clients.
+
+•	Le projet « organisationnel »
+ 
+
+Le projet dit « organisationnel » ou « événementiel » n’est pas associé à une fourniture matérielle mais à un événement temporaire ou à un processus. À titre d’exemples, on peut citer : le passage à l’euro, l’organisation des jeux Olympiques, un projet d’entreprise, une manifestation culturelle (expo- sition...), un changement de règle comptable, etc.
+
+4	Le triangle d’or du projet
+Le triangle est l’image couramment retenue pour caractériser les trois para- mètres fondamentaux d’un projet. La réussite d’un projet passe par la satis- faction des critères suivants :
+	Performance (qualité technique) ;
+	Coûts (qualité économique) ;
+	Délais (qualité temporelle).
+ 
+
+
+Ce triptyque incontournable qui caractérise le projet est aussi appelé qualité globale.
+⬥ Le respect de la performance
+Dans ce triptyque, le paramètre « performance » représente l’objet même du projet, c’est-à-dire sa réalisation d’ordre technique.
+La maîtrise de la performance est la plus sûre garantie de réussite d’un projet, car les deux autres paramètres, coûts et délais en dépendent direc- tement. Négliger le travail préparatoire relatif au paramètre « performance » entraînera une défaillance d’ordre technique ou organisationnelle qui don- nera lieu irrémédiablement à des retards et à des surcoûts.
+
+⬥ Le respect des coûts
+Le paramètre « coûts » représente l’objectif économique du projet, qu’il s’agisse des recettes ou des dépenses. Ce paramètre essentiel caractérise la réussite ou l’échec économique d’un projet.
+Ce paramètre sera respecté si :
+	l’on estime avec précision le détail, poste par poste, des coûts du projet ; la bonne estimation repose sur une connaissance précise du développe- ment projet, des achats à réaliser et des tâches à exécuter ;
+	l’on maîtrise les dépassements de coûts internes et externes qui peuvent survenir sur la durée du projet en les analysant et en les renégociant (contrôle des coûts) ;
+	l’on négocie financièrement toutes les nouvelles demandes, exprimées
+par le client, qui interviennent en écart par rapport au contrat.
+⬥ Le respect des délais
+Le paramètre « délais » représente le respect de la date de livraison du projet. Essentiel, il caractérise la réussite ou l’échec calendaire d’un projet.
+Ce paramètre sera respecté si :
+	l’on estime avec précision les délais d’approvisionnement et les durées de l’ensemble des tâches du projet ; la bonne estimation repose sur une connaissance précise du plan de développement projet ;
+	l’on maîtrise les dépassements de durée (internes et externes) qui peu- vent survenir sur la durée du projet, en les analysant et en les renégo- ciant (contrôle des délais) ;
+	l’on répercute, dans le calendrier contractuel, toutes les nouvelles de- mandes exprimées par le client qui interviennent en écart par rapport au contrat.
+5	La non-qualité
+⬥ La dérive des coûts
+Lorsque des difficultés techniques apparaissent tôt, il est possible de mettre des ressources techniques et humaines supplémentaires au service du pro- jet. Dans ce cas, les objectifs techniques pourront être maintenus et le projet sera livré dans les délais.
+En revanche, l’objectif économique lui ne pourra pas être respecté en rai- son des surcoûts dus au financement des ressources supplémentaires, non budgétées dans le cadre initial du projet.
+ 
+⬥ La dérive du planning et des coûts
+Lorsque des difficultés techniques apparaissent tard, le projet ne pourra pas être livré dans les délais, même en déployant des ressources techniques et humaines supplémentaires. Dans ce cas, les surcoûts seront engendrés par le financement de ressources supplémentaires sur une durée plus longue, et par le paiement probable de pénalités financières pour non-livraison au client du projet dans les délais prévus par le contrat.
+Les objectifs techniques seront réalisés mais le projet ne sera pas livré dans les délais et les objectifs de coûts ne seront pas respectés.
+
+⬥ Un difficile équilibre à trouver
+
+Comme nous l’avons vu précédemment, le respect des paramètres PCD caractérise la réussite d’un projet.
+Le non-respect des paramètres PCD engendre des conséquences très pré- judiciables ou irrémédiables au bon déroulement du projet. Dans ce cas, on est dans une problématique de « non-qualité ».
+L’opposé de la « qualité » est la « non-qualité » qui représente un coût qui s’avère généralement plus coûteux que de «faire bien » du premier coup. Le coût de la « non-qualité » est d’autant plus important qu’il est détecté tardi- vement dans le cycle de vie du projet. Le juste équilibre permettant d’élimi- ner au maximum la « non-qualité » en y consacrant un budget raisonnable est toujours difficile à trouver. La « non-qualité » est coûteuse et la « sur- qualité » est aussi coûteuse et de plus inutile. La qualité dite « acceptable » est entre ces extrêmes.
+ Deuxième clic ! l’organisation
+
+« La raison d’être d’une organisation est de permettre à des gens ordinaires de faire des choses extraordinaires. »
+Peter Drucker
+
+Ce deuxième « clic ! » pour situer le projet dans son environnement, com- prendre son fonctionnement et découvrir son cycle de vie phase par phase.
+
+1	La place du projet dans l’entreprise
+La place du projet dans l’entreprise est variable. Examinons schématique- ment des différentes situations.
+
+⬥ Le projet représente l’enjeu essentiel de l’entreprise
+Dans ce premier cas, l’entreprise est engagée dans plusieurs grands projets (A ; B ; C). Exposée à une forte concurrence dans son marché, elle peut voir son avenir compromis par l’échec de l’un d’eux. La relation « projet-entre- prise » est, dans ce cas, très forte.
+ L’entreprise réalise des grands projets dans un marché concurrentiel
+
+⬥ Le projet fédère un ensemble d’entreprises
+On est dans le cas d’un grand projet de coopération internationale qui a sa structure juridique propre et qui fédère autour de lui de nombreuses entre- prises ayant chacune une implication plus ou moins forte dans le projet. Dans ce cas, l’image des entreprises qui participent au projet s’efface de- vant celle du projet qui est forte et reconnue.
+Le projet fédérateur d’entreprises
+
+⬥ L’entreprise réalise un nombre important de différents
+projets
+L’entreprise réalise de nombreux projets de tailles variables dans des sec- teurs d’activité différents. L’échec de l’un des projets ne met pas en péril l’entreprise. La relation « projet-entreprise » est, dans ce cas, faible.
+ L’entreprise est engagée dans des projets de différentes natures
+
+⬥ Le projet est l’entreprise
+L’entreprise se confond avec le projet. On peut dire que le projet est l’entre- prise et réciproquement. Les moyens techniques et humains de l’entreprise sont au service du projet. La pérennité de l’entreprise est liée à celle du projet.
+Fusion entre l’entreprise et son projet
+
+
+2	La structure organisationnelle d’un projet
+Après avoir situé le projet dans l’entreprise, on peut examiner les différentes structures organisationnelles mises en œuvre pour réaliser un projet.
+ 
+
+
+Une structure d’entreprise a pour but de coordonner et de faire fonctionner l’ensemble des moyens humains et matériels pour atteindre les objectifs fixés par son responsable.
+
+⬥ La structure divisionnelle par projet
+Le principe de la structure divisionnelle permet d’organiser l’entreprise par
+« division ». On l’organisera :
+	en produits ;
+	en marchés ;
+	en zones géographiques.
+On trouvera à la tête de chaque projet un chef de projet dirigeant une équipe, le groupe projet, qui lui est rattaché. L’ensemble des chefs projet est coor- donné par la direction de l’entreprise.
+Structure divisionnelle par projet
+Avantages	Inconvénients
+Grande autonomie des chefs de projet	Pérennité de l’entreprise liée à la durée des projets
+Forte implication du groupe au projet	Pas ou peu de communication transversale
+Structure adaptable au marché	Cloisonnement entre les projets
+ La structure matricielle
+La structure matricielle est la structure couramment utilisée dans les grandes entreprises pour réaliser de grands projets en particulier dans le secteur de l’industrie aéronautique et spatial, mais aussi dans le bâtiment, l’informatique
+ou encore la chimie pour des réalisations ayant un caractère unique et exceptionnel. Cette structure organisationnelle utilise simultanément une organisation par métier et une organisation par projet.
+Son principe de fonctionnement complexe repose sur le détachement, pour la durée du projet, d’effectifs appartenant à la structure « métiers » – experts et spécialistes – vers la structure « projets ».
+Structure matricielle
+Avantages	Inconvénients
+Valorisation de la fonction projet	Double hiérarchie
+Motivation du groupe au projet	Gestion des personnes détachées
+Gestion des charges	
+La relation « client-fournisseur »
+L’organisation du projet est fondée sur deux entités :
+	un client4 : organisme ou personne qui reçoit un produit ;
+	un fournisseur5 : organisme ou personne qui procure un produit.
+Dans une organisation industrielle :
+	le maître d’ouvrage est l’organisme étatique ou industriel – le client – qui passe les marchés relatifs à la globalité des travaux ;
+	le maître d’œuvre est la personne physique ou morale – le fournisseur – chargée de l’exécution des travaux.
+
+⬥ Le maître d’ouvrage (MOA)
+Dans la norme NF EN ISO 9000, le maître d’ouvrage est défini comme suit :
+Norme NF ENISO9000
+« Organisme étatique ou industriel, client, qui, ayant passé le(s) marché(s) couvrant la globalité des travaux, sera le propriétaire de l’ouvrage ou agira pour le compte de l’acquéreur et en assumera les risques. Le maître d’ouvrage est l’acteur responsable, dans le réseau d’acquisition, de la définition des besoins (spécifiés en termes tech- niques et contractuels) et de la maîtrise de la réalisation confiée au maître d’œuvre afin de respecter les objectifs de performance, de coûts et de délais contractuels. »
+Cette structure est représentée par un directeur de projet qui :
+	suit l’avancement des travaux ;
+	participe aux revues de projet ;
+	assure le contrôle financier du projet ;
+	vérifie la conformité des travaux vis-à-vis des besoins exprimés ;
+	informe son client.
+
+⬥ Le maître d’œuvre (MOE)
+Le maître d’œuvre est défini comme une « personne physique ou morale qui, pour sa compétence technique, est chargée, par le maître d’ouvrage ou par la personne responsable du marché, de l’exécution des travaux (ou de les faire exécuter) dans le respect des délais, des coûts, des ressources et de la qualité attendue6 ».
+	Source : norme NF EN ISO 9000.
+	Source : ibid.
+	Source : Froman B., Gourdon C., op. cit., p. 110.
+ 
+
+
+4	La constitution de l’équipe projet
+On compare souvent le chef de projet à un chef d’orchestre. En effet, si le chef d’orchestre est au centre d’un triptyque : Œuvre – Public - Orchestre, le chef de projet est au centre du triptyque : Projet – Client – Équipe projet.
+Désigné par le maître d’œuvre le chef de projet est en charge :
+
+
+	de conduire le projet sous les aspects suivants : performance, coûts, délais ;
+	de faire respecter les engagements contractuels ;
+	d’assurer une relation commerciale avec le client ;
+	d’assurer le suivi technique et contractuel des sous-traitants ;
+	d’organiser les revues d’avancement contractuelles.
+Il devra réaliser un reporting périodique du projet (Tableau de bord7) au pro-
+fit de la direction générale permettant :
+
+	de procéder à l’état d’avancement « à date » du projet ;
+	d’attirer l’attention sur les risques à venir : techniques, calendaires et de coûts ;
+	de prendre des mesures préventives et/ou correctives ;
+
+	Voir Chapitre suivant § 5.
+	de prendre des décisions stratégiques pour l’entreprise ;
+	de capitaliser les expériences acquises pour procéder aux retours d’ex- périence nécessaires vis-à-vis des futurs projets.
+Pour mener à bien sa mission, il sera assisté d’un juriste, d’un responsable commercial, d’un responsable qualité, d’une secrétaire, et aura directement sous sa responsabilité :
+	un responsable technique chargé d’animer le pôle technique du projet (études, réalisation, essais) ;
+	un contrôleur de projet chargé d’animer le pôle gestion du projet (plan-
+ning, coûts, suivi des modifications, documentation).
+La figure, ci-contre, permet de visualiser l’équipe projet réunie autour du
+chef projet.
+
+
+Organisation de l’équipe du projet
+
+⬥ Les parties prenantes d’un projet
+La représentation du projet comme un ensemble intégrant deux sous- ensembles – le maître d’ouvrage et le maître d’œuvre – permet de visualiser :
+	l’interface qui lie le client au fournisseur (l’entreprise) : le contrat ;
+	la position du groupe projet (chef de projet et équipe projet) dans l’entreprise.
+ 
+
+
+
+ 
+
+Représentation des parties prenantes d’un projet
+
+⬥ Le groupe de projet
+« Se réunir est un début ; rester ensemble est un progrès ; travailler ensemble est la réussite. »
+Henry Ford
+
+
+Conduire un projet, c’est conduire un groupe, ce qui nécessite de la part de celui qui en est chargé, le chef de projet, d’intégrer dans sa démarche les aspects psychologiques, affectifs et sociaux du groupe (dynamique des groupes).
+
+⬥ Les phases d’évolution du groupe projet
+Le modèle de Tuckman proposé en 1965 est un cycle qui décrit en cinq phases l’évolution d’un groupe. Ce modèle nous instruit sur l’évolution du groupe de projet.
+ •	la phase de forming
+Cette phase de « socialisation » correspond à la constitution du groupe pro- jet. Les membres du groupe ne connaissent encore ni leur rôle ni leur mis- sion. Cette phase préliminaire est une phase de découverte et d’incertitude.
+
+•	la phase de storming
+Cette phase, dite « d’assaut », correspond à une phase de détermination des objectifs du projet. C’est aussi une phase de conﬂits et de débats entre les membres du groupe qui recherchent un « statut » au sein du groupe, mais aussi son contrôle (leadership).
+•	la phase de norming
+Le groupe étant formé, les rôles et les missions de chacun sont répartis pour réaliser le projet. Les membres appartiennent à un groupe qui a une cohésion et qui fonctionne suivant des normes et des règles explicites ou implicites.
+
+
+•	la phase de performing
+Les tensions au sein du groupe n’existent plus. Le projet est en cours de développement et de réalisation. Le groupe devient opérationnel et peut se concentrer pour réaliser les objectifs attendus.
+ •	la phase d’adjourning
+Les tâches confiées sont réalisées. Le groupe projet peut se démanteler.
+ 
+
+
+5	Le cycle de vie du projet
+« Le chemin est long du projet à la chose. »
+Molière
+
+Le projet est organisé en phases. À l’issue de chaque phase, une revue client autorise, ou pas, ou sous certaines conditions, le franchissement de la phase suivante. En segmentant le cycle de vie du projet, on segmente les risques.
+À chaque phase correspond :
+	un objectif ;
+	un contenu technique précis ;
+	une documentation contractuelle ;
+	des livrables ;
+	une revue.
+
+⬥ Les revues
+Chaque changement de phase est validé par une revue de projet. Ces re- vues sont conduites par un président de revue qui est assisté d’experts dans les domaines des spécialités concernées.
+
+Les membres du comité de revue sont extérieurs au projet, ce qui leur per- met d’être objectifs vis-à-vis des analyses réalisées.
+Ils ont pour mission :
+	de faire une analyse critique de la définition en s’appuyant sur la docu- mentation contractuelle ;
+	de vérifier si les objectifs de la phase concernée sont bien atteints ;
+	d’engager des actions correctives ou préventives en fonction des écarts
+de définition constatés ;
+	d’émettre au terme de la revue des recommandations ;
+	d’autoriser le passage à la phase suivante.
+La validation de chacune des phases déclenche le paiement du client, ce
+qui permet à l’industriel de financer la suite des étapes.
+
+⬥ La description des phases
+
+•	Phase 0 : phase de présomption de faisabilité
+C’est une phase de cadrage organisationnel et d’analyse technique som- maire. Cette phase d’avant-projet a pour principal objectif de valider la viabi- lité du concept et de définir le contexte du projet.
+	Cadrage organisationnel
+>	Contrat : forfait, régie.
+>	Organisation : MOA (maître d’ouvrage), MOE (maître d’œuvre).
+>	Grandes étapes du développement : revues, jalons, etc.
+>	Identification des besoins de la maîtrise d’ouvrage.
+	Analyse technique sommaire
+>	Réalisation des pré-études (objectifs, besoins).
+>	Réalisation des scénarios d’opportunité de démarrage du projet.
+>	Note de cadrage.
+La revue de mission sanctionne cette phase.
+À ce stade, l’état du projet est qualifié d’état origine.
+
+⬥ Phase A : phase de faisabilité
+Cette phase itérative a comme objectif d’étudier plusieurs solutions et concepts dont la faisabilité devra être démontrée.
+ 
+
+
+Au cours de cette phase, il faudra pour chaque solution :
+	évaluer les risques ;
+	identifier les éléments critiques ;
+	réaliser une description technique et fournir les dossiers justificatifs ;
+	évaluer les performances, les coûts et les délais ;
+	juger de la faisabilité.
+La revue de faisabilité sanctionne cette phase.
+À ce stade, l’état du projet est qualifié d’état fonctionnel.
+
+⬥ Phase B : phase projet
+Cette phase de définition préliminaire a pour but de figer la solution choisie.
+Au cours de cette phase, il faudra :
+	établir le dossier de définition préliminaire ;
+	réaliser le cahier des charges fonctionnelles (CdCf) ;
+	réaliser l’organigramme technique (WBS) ;
+	réaliser le planning détaillé des tâches (PERT) ;
+	réaliser le plan de développement détaillé ;
+	rédiger le plan qualité système ;
+	consulter les fournisseurs ;
+	préparer la phase de réalisation (moyens).
+La revue de conception préliminaire sanctionne cette phase.
+À ce stade, l’état du projet est qualifié d’état spécifié.
+
+⬥ Phase C : phase développement
+La définition étant acquise au terme de la phase précédente, on aborde la phase d’études détaillées et de qualification de la solution retenue. C’est la phase industrielle de développement durant laquelle on mettra en place les moyens qui permettront de réaliser des essais de faisabilité, des prototypes, des essais de mise au point et des essais fonctionnels et de qualification.
+Au cours de cette phase, il faudra :
+	réaliser le dossier de définition détaillée ;
+	réaliser les prototypes ;
+ 
+
+
+	réaliser des essais élémentaires ;
+	finaliser la spécification technique de besoin ;
+	finaliser les clauses techniques et les clauses qualité ;
+	finaliser le dossier de fabrication et de contrôle qui débloquera les réali- sations ;
+	mettre en place les systèmes de gestion des évolutions techniques et de
+configuration ;
+	choisir les fournisseurs.
+Les revues de conception détaillée et de qualification sanctionnent
+cette phase.
+À ce stade, l’état du projet est qualifié d’état défini.
+
+⬥ Phase D : phase série
+La qualification étant acquise, on démarre la réalisation des exemplaires de série. Les moyens de réalisation de série, permettant la reproductibilité des exemplaires, devront être acquis. En livrant les exemplaires de série, on transfère la responsabilité et les compétences.
+Au cours de cette phase, on mettra en place :
+	les moyens de gestion des évolutions techniques et des dérogations ;
+	le traitement des anomalies et des non-conformités ;
+	la formation des utilisateurs.
+La revue d’acceptation sanctionne cette phase.
+À ce stade, l’état du projet est qualifié d’état réalisé.
+
+⬥ Phase E : phase d’exploitation
+Les produits sont en phase opérationnelle. L’industriel doit répondre à toute panne éventuelle. C’est la phase d’après-vente. La traçabilité des exemplaires livrés est organisée. Une structure industrielle est mise en place pour appli- quer d’éventuelles modifications et pour les répercuter sur les exemplaires livrés ou en cours de réalisation. Toutes les pannes et anomalies, tous les faits techniques et incidents seront répertoriés, gérés, et devront systématique- ment donner lieu à des analyses qui pourront éventuellement engendrer des améliorations de la conception du projet. C’est le retour d’expérience.
+Dans cette phase, l’état du projet est qualifié d’état vivant.
+ ⬥ Phase F : phase de démantèlement
+Dans certains cas, on doit retirer un projet du service. On établit alors le plan de retrait de service ou de démantèlement qui prévoit les récupérations et la destruction des produits.
+Dans cette phase, l’état du projet est qualifié d’état déconstruit.
+
+⬥ Le synoptique des phases
+La figure ci-après (page suivante) propose un récapitulatif des différentes
+phases nécessaires à l’élaboration et à la réalisation d’un projet.
+Trois phases « macroscopiques », les 3 « C », caractérisent la progression du projet :
+	Cadrer : études de faisabilité ;
+	Conduire : développement du projet ;
+	Conclure : réalisation et transfert au client.
+
+⬥ La capitalisation de l’expérience acquise
+
+« Prévoir consiste à projeter dans l’avenir
+ce qu’on a perçu dans le passé. »
+Henri Bergson
+
+Un projet se nourrit des expériences passées. C’est la raison pour laquelle capitaliser l’expérience acquise par la mise en œuvre d’une procédure spé- cifique, au sein des organisations de projet est une démarche essentielle d’amélioration de la conduite de projet. La fin d’un projet fera systématique- ment l’objet d’un REX « Retour d’EXpérience » dont le but est de restituer des informations pertinentes permettant de rendre plus efficace la conduite des futurs projets.
+ Synoptique des phases
+ Troisième clic ! les méthodes
+
+« Le projet est le brouillon de l’avenir.
+Parfois, il faut à l’avenir des centaines de brouillons. »
+Jules Renard
+
+
+Ce troisième et dernier « clic ! » est consacré aux méthodes de pilotage
+mises à la disposition du chef de projet pour conduire à bonne fin son projet.
+	L’organigramme technique
+
+« Aucune tâche n’est particulièrement
+difficile si vous la découpez en petits boulots. »
+Henry Ford
+
+L’organigramme technique (OT) ou organigramme des tâches, aussi appelé WBS (Work Breakdown Structure), est l’outil de référence de la gestion de projet.
+Il illustre le concept fondateur de la gestion de projet : la division du travail.
+Il doit permettre de répondre aux questions suivantes :
+	Que doit-on réaliser ?
+	Quelles sont les tâches à réaliser ?
+	Quels sont les moyens à mettre en œuvre ?
+	Qui va réaliser ces tâches ?
+	Quels sont les coûts alloués ?
+	Quels sont les délais ?
+Le principe de l’organigramme technique est de réaliser une arborescence technique décomposant analytiquement le projet en :
+	sous-ensembles ;
+	produits ;
+	lots de travaux ;
+	tâches (élément le plus fin d’un planning de réalisation).
+
+Organigramme technique du projet
+ 
+
+
+Les objectifs sont les suivants :
+	attribuer nominativement des lots de travaux engageant les respon- sables sur une prestation technique, un objectif de coûts et sur un délai de livraison ; ces lots représentent l’équivalent d’un contrat interne passé entre le chef de projet et le responsable des lots de travaux (on retrouve la notion de client-fournisseur interne à l’entreprise) ; si les lots de travaux contiennent les tâches à réaliser, ils indiquent aussi les tâches exclues pour mieux préciser le périmètre des activités à engager ;
+	segmenter le projet, ce qui permet d’isoler les points critiques et de ré- duire les risques ;
+	garantir la cohérence du projet dans son ensemble ;
+	mettre en évidence les interfaces ;
+	vérifier l’exhaustivité des tâches ;
+	structurer le projet conformément à l’organisation de l’entreprise.
+L’OT est un outil de gestion qui, par la responsabilisation qu’il induit au ni- veau de chaque responsable de tâches, permet d’exercer un management de type « délégatif ».
+Une fois établi, l’organigramme technique deviendra le document de réfé- rence de l’équipe projet et servira de base au dialogue.
+La règle SMART est pratique et efficace pour attribuer aux responsables
+leurs objectifs qui devront être :
+	Spécifiques ;
+	Mesurables ;
+	Atteignables ;
+	Réalistes ;
+	Temporels.
+
+
+2	Le planning
+« Une petite impatience ruine un grand projet. »
+Confucius
+
+⬥ La prévision et l’anticipation
+Le planning est un instrument de représentation d’une prévision dans le temps.
+ 
+
+
+La planification est une discipline qui permet :
+	d’identifier l’ensemble des tâches nécessaires à la réalisation du projet ;
+	d’estimer la durée des tâches ;
+	de prévoir leurs enchaînements ;
+	de déterminer les « jalons » ;
+	de déterminer les « livrables » ;
+	de déterminer le ou les chemins critiques ;
+	de prévoir les ressources nécessaires ;
+	de prévoir l’ensemble des approvisionnements.
+La planification d’un projet a pour but de prévoir les activités qui vont se dérouler dans le temps et de les ordonnancer logiquement. C’est bien l’es- prit du mot « planning » utilisé dans son acception actuelle depuis 1947 et emprunté à l’anglais to plan qui signifie « prévoir »8. Ce que l’on attend de la planification, c’est une maîtrise des délais, afin d’avoir le contrôle du dérou- lement du planning pour anticiper les retards et non pour les constater.
+
+⬥ Tâches, jalons, livrable
+	Une tâche est une opération à effectuer dans le cadre d’un processus pour aboutir à un résultat.
+	Un jalon est un événement majeur repéré dans le planning par une tâche de durée nulle. Il sera prévu pour signaler le début d’une nouvelle phase du projet (généralement lors d’une revue de projet). Il résulte donc, de la mise en place d’un jalon, qu’une action de contrôle, de vérification ou de validation soit engagée avant de changer de phase.
+	Un livrable est un résultat qui découle de l’achèvement d’une partie du projet (document, réalisation…) ou du projet lui-même.
+
+⬥ Les trois différents types de planning
+On distingue trois types de planning complémentaires, qui répondent à des objectifs différents :
+	le planning d’ensemble, qui représente les grandes phases du projet ;
+	le planning détaillé, qui représente l’ensemble des activités et des tâches du projet (études, approvisionnement, réalisation…) ;
+	le planning de tendance, qui représente le suivi d’une activité.
+8	Source : Le Petit Robert.
+ 
+
+
+•	Le planning d’ensemble
+Dans ce cas, on utilisera le diagramme de GANTT pour sa représentation graphique claire et pédagogique qui favorise les échanges et la communica- tion. Sa lecture et son interprétation ne présentant aucune ambiguïté, il est le support idéal pour les présentations générales et les réunions de comité de direction.
+Pour réaliser le diagramme de GANTT, on représentera :
+	en abscisse : l’échelle de temps ;
+	en ordonnée : la liste des activités.
+Il est nécessaire pour élaborer ce type de planning :
+	de définir une échelle de temps adaptée à la période de suivi des travaux ;
+	d’identifier les activités ;
+	de déterminer leur durée (début/fin) ;
+	de prévoir les contraintes (périodes de non-activité…) ;
+	de définir la logique d’enchaînement des tâches (hiérarchisation, regrou-
+pement, liens logiques, relation entre les tâches…).
+
+
+Diagramme de GANTT
+ 	Le planning détaillé
+On a recours, pour la planification détaillée, à des plannings plus perfor- mants, comme le planning PERT (Program Evaluation and Review Tech- nique ou Program Evaluation and Research Task) ou le planning CPM (Critical Path Method) ou encore la méthode des antécédents, qui tiennent compte des dépendances entre les tâches.
+Le planning PERT est la méthode de planification de référence des projets complexes. La mise en place des réseaux PERT nécessite une connais- sance détaillée du projet. Fondé sur l’organigramme technique et la logique du plan de développement, le PERT permet la prise en compte de contraintes extérieures et organisationnelles. Son élaboration nécessite une réﬂexion pertinente sur la logique des tâches et leurs justifications. Cette démarche présente l’avantage de faire communiquer l’ensemble des intervenants du projet sur la logique technique d’enchaînement des travaux planifiés.
+Le planning PERT est un outil déterminant d’aide à la prise de décision qui offre la possibilité de mettre en évidence le chemin critique du projet. Il est constitué d’activités « à iso-marge » – ensemble des tâches de marge plus faible et de même marge, de marge nulle ou de marge négative –, ce qui permet de mettre le projet sous surveillance en pilotant les tâches à risques.
+Les tâches dites à risques seront immédiatement analysées car elles
+peuvent être instantanément identifiées.
+L’amélioration du planning d’ensemble passera par l’amélioration des marges du chemin critique, laquelle sera obtenue grâce à une réﬂexion sur les tâches elles-mêmes et – ou – sur la logique d’enchaînement des travaux.
+Ce type de planification a comme inconvénient d’être peu lisible (il n’y a pas d’échelle de temps). Son exploitation et son interprétation ne peuvent être faites que par des spécialistes.
+
+Planning PERT
+ 
+
+
+•	Le planning de tendance
+Le planning de tendance aussi appelé planning temps-temps permet de suivre la tendance d’un événement. Cette représentation est très utilisée pour suivre la criticité d’un événement.
+La représentation repose sur l’analyse de trois informations données :
+	en abscisse, une échelle de temps correspondant à la date de mise à jour ;
+	en ordonnée, une échelle de temps correspondant aux dates auxquelles les besoins devront être satisfaits.
+	à 45°, une échelle de temps correspondant aux dates de réalisation de l’événement.
+Sur le graphe représenté ci-après, on peut observer le suivi de quatre évé- nements :
+	l’activité A se termine avec une avance de quelques jours sur la date de besoin du 1er février ;
+	l’activité B se termine conformément à la date de besoin du 1er mars ;
+	l’activité C se termine avec un retard d’un mois sur la date de besoin du 1er avril ;
+	l’activité D, après n’avoir présenté, mois après mois, aucun retard, montre que la survenue d’un événement, à analyser, ne permet plus d’envisager une quelconque date de livraison.
+
+Planning de tendance
+ 
+
+
+3	Le suivi des coûts
+« Ce qui coûte le plus cher dans une construction ce sont les erreurs. »
+Ken Follett, Les Piliers de la Terre
+
+L’enjeu économique d’un projet est de respecter, à terme – c’est-à-dire à la livraison du projet –, l’engagement économique pris par la direction de l’entreprise lors de la signature du contrat.
+Pour le chef de projet, cet engagement économique se traduira, au quoti- dien, par une action de contrôle et de maîtrise des coûts du projet.
+L’engagement économique pris par la direction de l’entreprise lors de la si- gnature du contrat peut subir des évolutions au cours de la réalisation du projet, dans les deux cas principaux suivants :
+	si des modifications d’ordre technique réclamées par le client ont un im- pact sur les coûts initiaux du projet (les surcoûts sont alors à la charge du client) ;
+	si des aléas techniques rencontrés par l’entreprise, au cours du déroule- ment du projet, ont un impact sur les coûts initiaux du projet (les surcoûts sont à la charge de l’entreprise).
+L’organigramme technique, qui décompose le projet, permet aussi de bâtir un organigramme de gestion (OG) qui indiquera les allocations budgétaires par entité responsable. Ces entités ont un objectif de budget plafond à maî- triser et rendront compte, périodiquement, de l’avancement des dépenses réalisées et à venir à travers un tableau de bord.
+
+⬥ La courbe en S
+La courbe des dépenses d’un projet a une allure caractéristique en forme de S. Cette allure correspond à trois grandes phases du projet :
+	la phase de démarrage (phase 1) : c’est la phase de mise en place des équipes de projet ;
+	la phase de croissance (phase 2) : dans cette phase, on atteint les res- sources maximum du projet ;
+	la phase de décélération (phase 3) : c’est la phase de diminution des ressources au cours de laquelle les équipes quittent progressivement le projet.
+ 
+Courbe des dépenses dite courbe en S
+
+⬥ Les trois courbes du suivi budgétaire d’un projet
+Trois courbes interviennent dans le suivi budgétaire d’un projet :
+	la courbe prévisionnelle de réalisation ;
+	la courbe réelle de réalisation ;
+	la courbe d’avancement physique.
+
+Courbes de suivi des coûts d’un projet
+ 
+
+
+Ces trois courbes caractéristiques permettent, à un instant donné, de fournir l’état des dépenses d’un projet en tenant compte de son avancement, et de pouvoir répondre aux questions suivantes :
+	Quelles sont les dépenses initialement prévues ?
+	Quelles sont les dépenses effectivement engagées ?
+	Quelles sont les dépenses qui auraient dû être engagées ?
+
+•	La courbe prévisionnelle de réalisation au démarrage du projet (courbe 1)
+CBTP : Coût budgété du travail prévu (budget encouru).
+Cette courbe conduit au Budget à date (BD) et à la date contractuelle de fin
+de projet (Jc).
+Elle caractérise les dépenses initialement prévues pour réaliser l’ensemble du projet.
+
+•	La courbe réelle de réalisation (courbe 2)
+CRTE : Coût réel du travail effectué (coût encouru).
+Cette courbe conduit, au jour d’analyse J, au coût prévisionnel (CP) et à la date prévisionnelle d’achèvement (Jp).
+Elle caractérise les dépenses engagées au jour d’analyse J.
+
+•	La courbe de l’avancement physique (courbe 3)
+CBTE : Coût budgété du travail effectué (valeur budgétaire du travail réa- lisé).
+Cette courbe représente les dépenses qui auraient dû être engagées pour le travail réalisé au jour d’analyse J.
+En abscisse :
+	J0 : date contractuelle de début du projet ;
+	Jc : date contractuelle de fin du projet ;
+	Jp : date prévisionnelle d’achèvement estimée au jour J ;
+	J : analyse des coûts au jour J.
+En ordonnée :
+	C : valeur budgétaire du travail réalisé dans les conditions conduisant au budget à date (BD) ;
+ 
+
+
+	B : budget encouru au jour J ;
+	D : coût encouru ;
+	BD : budget à date ;
+	CP : coût prévisionnel de l’affaire complète, réévalué au jour J.
+Interprétation :
+	D-C : représente le surcoût (dépenses engagées – dépenses qui au- raient dû être engagées pour le travail réalisé) ;
+	J-R : le retard au jour j ;
+	D-O : le coût encouru ;
+	CP-D : le reste à encourir ;
+	CP-BD : l’écart de coût final prévisionnel au jour j ;
+	JP-JC : le retard final prévisionnel au jour j.
+
+
+4	Les risques
+Les événements générateurs de risques et les risques eux-mêmes devront
+être identifiés très tôt dans le cycle de vie du projet.
+Le risque est un « phénomène aléatoire correspondant à une situation où le futur n’est prévisible qu’avec des probabilités, par opposition à l’incertitude qui correspond à un futur totalement imprévisible (échappement au calcul) et à la certitude qui permet une prédiction, c’est-à-dire une prévision affec- tée d’une probabilité égale à 19 ».
+Le risque est de deux natures :
+	organisationnel (coûts et délais) ;
+	et/ou technique (sûreté de fonctionnement).
+Le découpage du projet en produits, la segmentation du cycle de vie, les re- vues autorisant les changements de phases, etc., font partie de la démarche caractéristique de la gestion de projet qui contribue à favoriser la maîtrise des risques.
+On aura recours à l’AMDEC comme méthodologie pour supprimer les
+risques, les réduire ou définir un niveau de risque « acceptable ».
+
+
+
+9	Source : Lexique de gestion, op. cit.
+ 
+
+
+5	Le tableau de bord
+
+
+⬥ Les objectifs
+Le vocable « tableau de bord » est apparu vers 1790. Le Petit Robert en donne la définition suivante : « […] présentation des principaux renseigne- ments représentatifs de la marche d’une entreprise, de la situation écono- mique d’une nation ».
+Cette définition souligne le caractère stratégique de ce document de syn- thèse qui permet de comprendre la globalité d’une situation.
+Le tableau de bord est défini par le lexique de gestion Dalloz comme une
+« représentation synthétique chiffrée des principales informations néces- saires aux dirigeants (entrepreneurs, gouvernements) pour le contrôle de l’exécution d’un programme d’action et d’orientation en cas d’écarts par rap- port aux projets ou projections ».
+Cette autre définition, en introduisant les notions de chiffre, d’écart par rap- port à une référence et de tendance, caractérise ce document comme un outil de management permettant :
+	de piloter des activités et des projets ;
+	de contrôler des dépenses ;
+	de respecter des budgets ;
+	d’analyser des tendances ;
+	de mesurer des écarts ;
+	d’exploiter des résultats ;
+	d’évaluer les risques ;
+	de consulter un bilan d’activités ;
+	de prendre connaissance, à travers de nombreux états, du fonctionne- ment d’une direction ;
+	de lancer diverses actions (réunions, audit…).
+ Cet ensemble d’informations, cohérentes et précises, de nature différente, couvrant l’ensemble du périmètre d’activités et regroupées dans un même document, permet ainsi de prendre les décisions les plus adaptées au contexte de l’entreprise.
+Le tableau de bord doit retenir l’information juste et utile, car l’entreprise n’échappe pas à la « surinformation » dans un monde « hyperrelationnel », où l’information est « intense » et véhiculée par l’e-information.
+Le tableau de bord projet rendra compte de la vie du projet et de ses contraintes internes et externes.
+
+⬥ Les indicateurs de gestion
+Le tableau de bord donnera au dirigeant tous les moyens de contrôler son activité en lui offrant la possibilité d’exploiter des indicateurs de gestion qui lui fourniront des éléments de contrôle mesurables et le renseigneront sur le comportement des différents paramètres de l’entreprise.
+Ces indicateurs informeront le manager sur :
+	l’état de la situation (le constat de situation) ;
+	la tendance (la direction prise, qu’elle soit bonne ou mauvaise) ;
+	l’objectif à atteindre (la bonne direction).
+Ces indicateurs de gestion sont référencés par rapport à trois types d’objec- tifs :
+	un objectif à ne pas dépasser : le plafond autorisé ;
+	un objectif à atteindre : la cible ;
+	un objectif de niveau : le seuil.
+Les indicateurs de gestion sont spécifiques aux domaines d’activités concer- nés. Un indicateur de gestion ne sera mis en œuvre que s’il représente une aide à la prise de décision. La mise en place d’un indicateur de gestion s’apparente à la conception d’un instrument de mesure. Il faut le réaliser en s’assurant qu’il répond bien à un réel besoin.
+On peut citer des grandes familles d’indicateurs généralement rencontrées pour réaliser un tableau de bord, et qui répondront au contrôle d’une acti- vité :
+	indicateurs de résultats ;
+	indicateurs de moyens ;
+ 
