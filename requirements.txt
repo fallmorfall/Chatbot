@@ -1,0 +1,11 @@
+pip == 23.2
+nltk 
+re
+word_tokenize
+sent_tokenize 
+stopwords 
+WordNetLemmatizer
+TfidfVectorizer 
+cosine_similarity
+streamlit
+sklearn
